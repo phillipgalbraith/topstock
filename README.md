@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @topstock
+- 👋 Hi, I’m Phillip Galbraith, @topstock
 - 👀 I’m interested in The Odin Project, Web Development, apps, games, and social media.
 - 🌱 I’m currently Ruby Basics part of The Odin Project.
 - 💞️ I’m looking to collaborate on social media, games, and email focussed projects.
