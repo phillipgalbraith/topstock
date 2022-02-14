@@ -3,13 +3,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=topstock" alt="topstock" /></a> </p>
 
-
+- 📫 How to reach me: phillip.j.galbraith@gmail.com
 - 🔭 I’m currently working on [Potluck-Planner](https://github.com/Potluck-planner-4-build-week)
 - 👀 I’m interested in Web Development, Bloom Tech, The Odin Project, and Game Development
 - 🌱 I’m currently Ruby Basics part of The Odin Project.
 - 🌏 I’m looking to collaborate on SQL, React, Redux, and Vue projects.
-- 📫 How to reach me: phillip.j.galbraith@gmail.com
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@phillipgalbraith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@phillipgalbraith" height="30" width="40" /></a>
